@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "642386240333",
+    "firebase_url": "https://fir-kotlin-111e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-kotlin-111e4",
+    "storage_bucket": "fir-kotlin-111e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642386240333:android:6bb31639ebd58377d64d04",
+        "android_client_info": {
+          "package_name": "com.example.bai_tap_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATf7u64jgqxOPkBe2Yq4-DOnR1jzEzvzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642386240333:android:540e57dfe4f265b3d64d04",
+        "android_client_info": {
+          "package_name": "com.example.shopping_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATf7u64jgqxOPkBe2Yq4-DOnR1jzEzvzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
